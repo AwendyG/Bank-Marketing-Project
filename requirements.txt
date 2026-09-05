@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+matplotlib
+ipykernel
+missingno
+scikit-learn
+openpyxl
+xgboost
+shap
+
