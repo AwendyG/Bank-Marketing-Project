@@ -1,0 +1,6 @@
+## Can machine learning identify customers who are most likely to respond positively to a bank marketing campaign 📞?
+
+#### In this machine learning project I try to predict whether a bank client will respond positively to a marketing campaign by subscribing to a term deposit. Using model explainability to turn that prediction into something a the sales and marketing team could actually act on.
+
+_During telemarketing campaigns, banks may not have the resources to contact every client individually, as large-scale campaigns can be costly and time-consuming. Blanket marketing approaches may also result in resources being spent on customers who are unlikely to respond or subscribe, leading to a lower return on investment.This project aims to identify the clients who are most likely to respond positively to a marketing campaign and subscribe to a term deposit. By understanding the specific factors that influence a client's likelihood of subscribing, the project will provide insights that Sales and Marketing teams can easily understand and act upon.The goal is to help banks make more targeted and informed decisions about which customers to contact, reducing unnecessary calling costs while improving conversion rates and ultimately increasing revenue._
+ 
